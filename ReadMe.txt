@@ -1,4 +1,4 @@
-# Steps:
+Steps:
 1.Create a  account in google cloud platform.
 2.create a project name(BreastCancer) in Iam & Admin.
 3.Open command prompt  and copy the path of file and press enter.
